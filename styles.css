@@ -1,0 +1,27 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+main {
+  background-image: url(imgs/Header.jpg);
+  background-size: cover;
+}
+
+.fa-circle {
+  font-size: 10px;
+}
+
+.h5 {
+  height: 15vh;
+  width: 12vw;
+}
+
+.arrow {
+  position: absolute;
+  left: 85%;
+}
+
+.arrow1 {
+  position: relative;
+  left: 55%;
+}
