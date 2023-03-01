@@ -1,0 +1,7 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+main {
+    background-image: url(imgs/Header.jpg);
+    background-size: cover;
+}
