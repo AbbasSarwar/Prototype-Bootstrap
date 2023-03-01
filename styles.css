@@ -5,3 +5,7 @@ main {
     background-image: url(imgs/Header.jpg);
     background-size: cover;
 }
+
+.fa-circle {
+    font-size: 10px;
+}
