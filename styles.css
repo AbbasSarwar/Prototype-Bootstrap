@@ -9,3 +9,15 @@ main {
 .fa-circle {
     font-size: 10px;
 }
+.h5 {
+    height: 15vh;
+    width: 12vw;
+}
+.arrow {
+    position: absolute;
+    left: 85%;
+}
+.arrow1 {
+    position: relative;
+    left: 55%;
+}
